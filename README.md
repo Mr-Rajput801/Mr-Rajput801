@@ -17,14 +17,14 @@ I usually work on **Data Science**, **ML Engineering**, **AI Engineering** and *
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
-- **Engineer I** at **[OnePlus India](https://www.oneplus.in/)**
+- **Automation Engineer** at **[OnePlus India](https://www.oneplus.in/)**
 - Author of Research paper titled **[Vision based solar tracking system for efficient energy harvesting](https://ijpeds.iaescore.com/index.php/IJPEDS/article/view/21308)**
 
 <!-- Experience -->
 
 ##  👨💻 Experience
 
-- **Engineer I** at **[OnePlus India](https://www.oneplus.in/)**
+- **Automation Engineer** at **[OnePlus India](https://www.oneplus.in/)**
 - Business Analyst at **[BYJU's The Learning App](https://byjusexamprep.com/)**
 - Data Science Intern at **[Almabetter](https://www.almabetter.com/courses/full-stack-data-science?&courseSlug=full-stack-data-science&utm_source=Inorganic_google&utm_medium=data_science&utm_campaign=Brand|Search|2|AllGoals&utm_content=Brand-SKW-Desktop|Exact&utm_term=text_ad&gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATasM5qiMVjYHP6ObXOs1TGWp1QkxAhLCGufUYAC2DHO_XEfjzoAyeAaAsKGEALw_wcB)**
   
@@ -77,16 +77,15 @@ I believe in public learning, and consider myself a proactive, responsible and r
     
   Project Name | Tech Stack | Source Code 
   ------- | :---------: | :--------: 
-  Flight Price Prediction | Python, Flask | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Customer Churn Prediction | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Covid Analysis | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
+  Covid Analysis | Python | [Repo](https://github.com/Mr-Rajput801/Covid-19-Analysis)
+  Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/Mr-Rajput801/IPL-Data-Analysis)
+  Exploratory Data Analysis on Terrorism Dataset | Python | [Repo](https://github.com/Mr-Rajput801/Global-Terrorism-Analysis)
+  Global Terrorism Dashboard | POWER BI | [Repo](https://github.com/Mr-Rajput801/Global-Terrorism-Dashboard-Power-BI)
+  Product Dissection for Zomato-App  | Python | [Repo](https://github.com/Mr-Rajput801/Product-Dissection-for-Zomato-App)
   IRIS Flower Classification | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   Stock Market Prediction using LSTM | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Exploratory Data Analysis on Dataset Terrorism | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   Prediction using Decision Tree Algorithm | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Device Failure Analysis | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Effective Targetting of Advertisments | Python | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
+  Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics  | Python | [Repo](https://github.com/Mr-Rajput801/Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics)
   
   </details>
 
@@ -97,27 +96,19 @@ I believe in public learning, and consider myself a proactive, responsible and r
   
   Project Name | Tech Stack | Source Code 
   ------- | :---------: | :--------: 
-  NFT Forge (Oye Paaji) | HTML, CSS, JS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Doctor Appointment Booking System | HTML, CSS, PHP | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Flight Prediction System | Python, FastAPI | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   Myntra Clone | HTML, CSS, JS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Ambulance Booking System | Python, HTML, CSS, JS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  Notes App | Python, HTML, CSS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
-  
+  Covid-19 Dashboard | PYTHON, CSS, JS | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   </details>
 
    <!--AI tools -->
 
   <details>
-  <summary><b>AI Engineering</b></summary>
+  <summary><b>ML/AI Engineering</b></summary>
   <br/>
     
   Project Name | Tech Stack | Source Code 
   ------- | :---------: | :--------: 
-  The Mutant Planets - NFT | Javascript | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
+  Emotion-Analysis-and-Detection | Javascript | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   NFT Forge - A NFT Generator | Javascript | [Repo](https://github.com/Mr-Rajput801/Mr-Rajput801)
   
   </details>
